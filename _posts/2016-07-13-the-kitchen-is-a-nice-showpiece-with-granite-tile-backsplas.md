@@ -11,15 +11,15 @@ description: >-
   working as well as ambient light during dinner parties. There is also a large
   walk-in pantry so you can stock up on supplies for the family and keep them
   organized and close at hand.
-datePublished: '2016-07-13T19:32:34.359Z'
-dateModified: '2016-07-13T19:32:24.573Z'
+datePublished: '2016-07-13T19:44:29.760Z'
+dateModified: '2016-07-13T19:41:30.964Z'
 title: ''
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: >-
   _posts/2016-07-13-the-kitchen-is-a-nice-showpiece-with-granite-tile-backsplas.md
+authors: []
+publisher: null
+starred: true
 url: the-kitchen-is-a-nice-showpiece-with-granite-tile-backsplas/index.html
 _type: Article
 
