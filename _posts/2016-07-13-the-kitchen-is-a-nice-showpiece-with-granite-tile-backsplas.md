@@ -8,11 +8,9 @@ description: >-
   The kitchen is a nice showpiece, with granite tile backsplash, stainless steel
   appliances and an overhang counter area great for casual dining. There is
   plenty of counter space, and under cabinet lighting to give great light for
-  working as well as ambient light during dinner parties. There is also a large
-  walk-in pantry so you can stock up on supplies for the family and keep them
-  organized and close at hand.
-datePublished: '2016-07-13T22:14:31.722Z'
-dateModified: '2016-07-13T22:11:00.630Z'
+  working as well as ambient light during dinner parties. 
+datePublished: '2016-07-13T22:15:20.210Z'
+dateModified: '2016-07-13T22:15:19.780Z'
 title: ''
 author:
   - name: ''
@@ -26,7 +24,7 @@ url: the-kitchen-is-a-nice-showpiece-with-granite-tile-backsplas/index.html
 _type: Article
 
 ---
-![Kitchen](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8e2f3ae-3399-4c37-b032-c1a95db0cc75.jpg)
+The kitchen is a nice showpiece, with granite tile backsplash, stainless steel appliances and an overhang counter area great for casual dining. There is plenty of counter space, and under cabinet lighting to give great light for working as well as ambient light during dinner parties. ![Kitchen](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8e2f3ae-3399-4c37-b032-c1a95db0cc75.jpg)
 
-The kitchen is a nice showpiece, with granite tile backsplash, stainless steel appliances and an overhang counter area great for casual dining. There is plenty of counter space, and under cabinet lighting to give great light for working as well as ambient light during dinner parties. There is also a large walk-in pantry so you can stock up on supplies for the family and keep them organized and close at hand.
+There is also a large walk-in pantry so you can stock up on supplies for the family and keep them organized and close at hand.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3381623-d486-4db0-8a33-2f39a9f1698d.jpg)
