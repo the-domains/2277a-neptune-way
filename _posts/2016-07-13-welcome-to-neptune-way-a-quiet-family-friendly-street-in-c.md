@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Welcome to Neptune Way, a quiet, family friendly street in Comox close to
   parks, schools and shopping.
-datePublished: '2016-07-13T19:50:17.293Z'
-dateModified: '2016-07-13T19:49:38.942Z'
+datePublished: '2016-07-13T20:30:33.816Z'
+dateModified: '2016-07-13T20:30:33.375Z'
 title: ''
 author: []
 sourcePath: >-
@@ -20,8 +20,9 @@ url: welcome-to-neptune-way-a-quiet-family-friendly-street-in-c/index.html
 _type: Article
 
 ---
-Welcome to Neptune Way, a quiet, family friendly street in Comox close to parks, schools and shopping.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49283855-5e48-4ca3-b771-1e850c2f15ca.jpg)
+
+Welcome to Neptune Way, a quiet, family friendly street in Comox close to parks, schools and shopping.
 
 2277A Neptune Way has a lot to offer. With a double garage and a 3rd gravel side yard parking space (for trailer/boat parking) there is plenty of room to park and store your tools, toys and vehicles.
 
