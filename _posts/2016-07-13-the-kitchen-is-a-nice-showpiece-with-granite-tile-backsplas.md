@@ -9,8 +9,8 @@ description: >-
   appliances and an overhang counter area great for casual dining. There is
   plenty of counter space, and under cabinet lighting to give great light for
   working as well as ambient light during dinner parties. 
-datePublished: '2016-07-13T22:15:20.210Z'
-dateModified: '2016-07-13T22:15:19.780Z'
+datePublished: '2016-07-13T23:22:50.192Z'
+dateModified: '2016-07-13T23:22:45.248Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ sourcePath: >-
   _posts/2016-07-13-the-kitchen-is-a-nice-showpiece-with-granite-tile-backsplas.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: the-kitchen-is-a-nice-showpiece-with-granite-tile-backsplas/index.html
 _type: Article
 
