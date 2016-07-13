@@ -7,10 +7,12 @@ keywords: []
 description: >-
   Downstairs there is a large family room with french doors opening onto a
   concrete patio in the fully fenced backyard. 
-datePublished: '2016-07-13T22:18:00.059Z'
-dateModified: '2016-07-13T22:17:48.327Z'
+datePublished: '2016-07-13T22:21:00.057Z'
+dateModified: '2016-07-13T22:18:07.530Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-13-downstairs.md
 authors: []
 publisher: null
