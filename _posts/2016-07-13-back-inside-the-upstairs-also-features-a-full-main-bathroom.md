@@ -11,16 +11,16 @@ description: >-
   with full size closets. The master bedroom also opens off the upstairs hallway
   and features a walk in closet and full ensuite with a luxurious walk-in shower
   with glass doors, body sprays, 2 rain heads and a detachable shower head. All
-  the bedrooms feature laminate flooring.  
-datePublished: '2016-07-13T19:20:42.301Z'
-dateModified: '2016-07-13T19:16:26.587Z'
+  the bedrooms feature laminate flooring. 
+datePublished: '2016-07-13T19:44:42.106Z'
+dateModified: '2016-07-13T19:36:48.405Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-13-back-inside-the-upstairs-also-features-a-full-main-bathroom.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-13-back-inside-the-upstairs-also-features-a-full-main-bathroom.md
 url: back-inside-the-upstairs-also-features-a-full-main-bathroom/index.html
 _type: Article
 
