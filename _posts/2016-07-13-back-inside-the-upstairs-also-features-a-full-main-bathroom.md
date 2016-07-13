@@ -8,8 +8,8 @@ description: >-
   The upstairs features a full main bathroom with a double-wide vanity (lots of
   storage) as well as a tub/shower combo, a linen closet at the end of the hall,
   and 2 good sized bedrooms (roughly 12' x 12') with full size closets. 
-datePublished: '2016-07-13T20:36:21.727Z'
-dateModified: '2016-07-13T20:32:16.513Z'
+datePublished: '2016-07-13T22:06:04.257Z'
+dateModified: '2016-07-13T22:06:03.895Z'
 title: ''
 author: []
 sourcePath: >-
@@ -25,3 +25,5 @@ The upstairs features a full main bathroom with a double-wide vanity (lots of st
 
 The master bedroom also opens off the upstairs hallway and features a walk in closet and full ensuite with a luxurious walk-in shower with glass doors, body sprays, 2 rain heads and a detachable shower head. All the bedrooms feature laminate flooring.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/547b00f4-fb22-4811-88e1-1907faeff43d.jpg)
+
+> luxurious walk-in shower with body sprays and rain heads
