@@ -8,8 +8,8 @@ description: >-
   The upstairs features a full main bathroom with a double-wide vanity (lots of
   storage) as well as a tub/shower combo, a linen closet at the end of the hall,
   and 2 good sized bedrooms (roughly 12' x 12') with full size closets. 
-datePublished: '2016-07-13T20:32:12.233Z'
-dateModified: '2016-07-13T20:31:54.706Z'
+datePublished: '2016-07-13T20:36:21.727Z'
+dateModified: '2016-07-13T20:32:16.513Z'
 title: ''
 author: []
 sourcePath: >-
