@@ -4,7 +4,7 @@
         <description><![CDATA[2277A Neptune Way, Comox]]></description>
         <link>https://thegrid.ai/2277a-neptune-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 19:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 20:22:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/2277a-neptune-way/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome Home]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/2277a-neptune-way/welcome-to-neptune-way-a-quiet-family-friendly-street-in-c/index.html</link>
             <guid isPermaLink="false">245dd5b0-ddbe-4781-b8f9-c097325aae8f</guid>
             <pubDate>Wed, 13 Jul 2016 19:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Downstairs Family Room]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f69842f5-1dbf-4ebf-91dc-3295d5adaba3.jpg">]]></description>
+            <link>https://thegrid.ai/2277a-neptune-way/downstairs/index.html</link>
+            <guid isPermaLink="false">afe67481-4762-4470-bdca-f621c9014db5</guid>
+            <pubDate>Wed, 13 Jul 2016 20:22:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Family Friendly Kitchen]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/2277a-neptune-way/back-inside-the-upstairs-also-features-a-full-main-bathroom/index.html</link>
             <guid isPermaLink="false">ca17461e-69b7-4a28-be1d-1a31171566e2</guid>
             <pubDate>Wed, 13 Jul 2016 19:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Downstairs Family Space]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f69842f5-1dbf-4ebf-91dc-3295d5adaba3.jpg">]]></description>
-            <link>https://thegrid.ai/2277a-neptune-way/downstairs/index.html</link>
-            <guid isPermaLink="false">afe67481-4762-4470-bdca-f621c9014db5</guid>
-            <pubDate>Wed, 13 Jul 2016 19:44:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
