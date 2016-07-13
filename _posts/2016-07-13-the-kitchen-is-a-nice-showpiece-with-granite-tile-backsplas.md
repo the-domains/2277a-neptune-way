@@ -11,8 +11,8 @@ description: >-
   working as well as ambient light during dinner parties. There is also a large
   walk-in pantry so you can stock up on supplies for the family and keep them
   organized and close at hand.
-datePublished: '2016-07-13T22:10:58.009Z'
-dateModified: '2016-07-13T22:10:41.539Z'
+datePublished: '2016-07-13T22:14:31.722Z'
+dateModified: '2016-07-13T22:11:00.630Z'
 title: ''
 author:
   - name: ''
