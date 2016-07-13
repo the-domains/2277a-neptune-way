@@ -9,14 +9,14 @@ description: >-
   coat storage, access to the crawl space for more storage, a 1/2 bathroom and a
   large family room with french doors opening onto a concrete patio in the fully
   fenced backyard. 
-datePublished: '2016-07-13T19:20:42.273Z'
-dateModified: '2016-07-13T19:19:34.746Z'
+datePublished: '2016-07-13T19:44:35.659Z'
+dateModified: '2016-07-13T19:37:11.013Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-13-downstairs.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-13-downstairs.md
 url: downstairs/index.html
 _type: Article
 
