@@ -1,7 +1,7 @@
 name: 2277A Neptune Way
 favicon: null
 layout_spectrum: 0.50386
-typography_spectrum: 0.8368200927507132
+typography_spectrum: 0.48844
 title: '2277A Neptune Way, Comox'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#090909'
     - '#ffffff'
-    - '#a8a9a3'
-    - '#878782'
-    - '#372d2c'
-  brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.1875
-  rhythmicContrast: 0
+    - '#121212'
+    - '#803f20'
+    - '#8b9168'
+    - '#d1b492'
+  brandStrength: 0.3125
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
