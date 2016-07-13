@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[2277A Neptune Way]]></title>
         <description><![CDATA[2277A Neptune Way]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/2277a-neptune-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 19:20:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 19:21:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/2277a-neptune-way/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1badeff-7300-44ba-852d-313d0fad3ccd.jpg">]]></description>
+            <link>https://thegrid.ai/2277a-neptune-way/back-inside-the-upstairs-also-features-a-full-main-bathroom/index.html</link>
+            <guid isPermaLink="false">ca17461e-69b7-4a28-be1d-1a31171566e2</guid>
+            <pubDate>Wed, 13 Jul 2016 19:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Downstairs]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f69842f5-1dbf-4ebf-91dc-3295d5adaba3.jpg">]]></description>
-            <link>undefineddownstairs/index.html</link>
+            <link>https://thegrid.ai/2277a-neptune-way/downstairs/index.html</link>
             <guid isPermaLink="false">afe67481-4762-4470-bdca-f621c9014db5</guid>
             <pubDate>Wed, 13 Jul 2016 19:20:42 GMT</pubDate>
         </item>
