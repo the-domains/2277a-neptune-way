@@ -10,8 +10,8 @@ description: >-
   views west and sunsets during the summer over Mt. Washington. The deck is
   about 200 sq. ft. and can easily fit a BBQ and full patio set, and is shaded
   from the hot summer sun for perfect outdoor summer dining. 
-datePublished: '2016-07-13T19:44:46.271Z'
-dateModified: '2016-07-13T19:36:02.959Z'
+datePublished: '2016-07-13T19:49:47.249Z'
+dateModified: '2016-07-13T19:47:12.591Z'
 title: ''
 author: []
 sourcePath: >-
