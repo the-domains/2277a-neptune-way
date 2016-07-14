@@ -7,10 +7,12 @@ keywords: []
 description: >-
   Welcome to Neptune Way, a quiet, family friendly street in Comox close to
   parks, schools and shopping.
-datePublished: '2016-07-13T20:30:33.816Z'
-dateModified: '2016-07-13T20:30:33.375Z'
+datePublished: '2016-07-14T00:00:52.820Z'
+dateModified: '2016-07-14T00:00:52.275Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: >-
   _posts/2016-07-13-welcome-to-neptune-way-a-quiet-family-friendly-street-in-c.md
 authors: []
