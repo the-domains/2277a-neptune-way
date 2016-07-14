@@ -9,8 +9,8 @@ description: >-
   appliances and an overhang counter area great for casual dining. There is
   plenty of counter space, and under cabinet lighting to give great light for
   working as well as ambient light during dinner parties. 
-datePublished: '2016-07-13T23:57:04.222Z'
-dateModified: '2016-07-13T23:56:50.660Z'
+datePublished: '2016-07-14T00:00:31.800Z'
+dateModified: '2016-07-13T23:57:14.180Z'
 title: ''
 author:
   - name: ''
